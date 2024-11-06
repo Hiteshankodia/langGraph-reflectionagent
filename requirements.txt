@@ -1,0 +1,8 @@
+python-dotenv
+black 
+isort  
+langchain 
+langchain_google_genai
+google-generativeai
+langgraph
+grandalf
